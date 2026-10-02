@@ -1,0 +1,5 @@
+a = int(input())
+b = int(input())
+c = int(input())
+so_ban= ((a+1)//2 + (b+1)//2 + (c+1)//2)
+print("Số bàn tối thiểu cần mua", so_ban)
